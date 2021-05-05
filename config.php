@@ -1,0 +1,1 @@
+<?php DEFINE('HOST', 'localhost'); DEFINE('USER', 'root'); DEFINE('PASS', ''); DEFINE('DB_NAME', 'dc');  DEFINE('TITLE', 'DC'); DEFINE('SubTITLE', 'DC Water Refilling Station'); ?>

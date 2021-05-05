@@ -1,0 +1,1 @@
+<?php 	require_once('plugins/TCPDF-main/tcpdf.php');  	$r = $_GET['r']??"sales"; 	include "reports/".$r."_tcpdf.php"; 	 ?>
